@@ -871,7 +871,7 @@ cc_prebuilt_library_shared {
                 "libcamximageformatutils",
                 "libchilog",
                 "libcom.qti.chinodeutils",
-                "libui",
+                "libui-v34",
                 "libz",
                 "libc",
                 "libm",
@@ -2824,7 +2824,7 @@ cc_prebuilt_library_shared {
                 "libvidhance",
                 "libmotoisdataqueue",
                 "libsensorslog",
-                "libui",
+                "libui-v34",
                 "libc++",
                 "libc",
                 "libm",
@@ -2857,7 +2857,7 @@ cc_prebuilt_library_shared {
                 "libvidhance",
                 "libmotoisdataqueue",
                 "libsensorslog",
-                "libui",
+                "libui-v34",
                 "libc++",
                 "libc",
                 "libm",
@@ -5667,30 +5667,6 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/libBSTbase_share.so",
             ],
             shared_libs: [
-                "libdl",
-                "libc",
-            ],
-        },
-    },
-    compile_multilib: "64",
-    prefer: true,
-    soc_specific: true,
-}
-
-cc_prebuilt_library_shared {
-    name: "libDxHdcp",
-    owner: "motorola",
-    strip: {
-        none: true,
-    },
-    target: {
-        android_arm64: {
-            srcs: [
-                "proprietary/vendor/lib64/libDxHdcp.so",
-            ],
-            shared_libs: [
-                "liblog",
-                "libm",
                 "libdl",
                 "libc",
             ],

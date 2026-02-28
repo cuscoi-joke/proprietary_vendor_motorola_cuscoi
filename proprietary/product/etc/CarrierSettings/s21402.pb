@@ -1,6 +1,8 @@
 
-s21402ŒÅ¡§"¿ 
-carrier_volte_available_bool(#
+s21402¸Ç¡§"Ý 
+allow_merging_rtt_calls_bool( 
+carrier_volte_available_bool( 
+ignore_rtt_mode_setting_bool(#
 moto_data_stall_check_count_int2
 moto_smart_5g_enabled_bool( 
 moto_smart_5g_supported_bool('
@@ -26,6 +28,9 @@
 214018
 214019
 214020
-214021"
+214021 
+rtt_downgrade_supported_bool(
+rtt_supported_bool(
+rtt_upgrade_supported_bool("
 show_4g_for_lte_data_icon_bool(
 smsUsesSimpleCharactersOnly(

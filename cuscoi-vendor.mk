@@ -3476,7 +3476,6 @@ PRODUCT_PACKAGES += \
     libBSTNodeUtils \
     libBSTSWAD \
     libBSTbase_share \
-    libDxHdcp \
     libPlatformValidatorShared \
     libSNPE \
     libSnpeHtpPrepare \

@@ -1,8 +1,13 @@
 
-s23405ŒÅ¡§"­ 
-carrier_volte_available_bool(
+s23405¸Ç¡§"Ë 
+allow_merging_rtt_calls_bool( 
+carrier_volte_available_bool( 
+ignore_rtt_mode_setting_bool(
 maxImageHeight˜
 maxImageWidth #
 moto_data_stall_check_count_int2'
 #moto_support_data_stall_detect_bool(
-recipientLimit
+recipientLimit 
+rtt_downgrade_supported_bool(
+rtt_supported_bool(
+rtt_upgrade_supported_bool(

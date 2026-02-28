@@ -1,9 +1,11 @@
 
-s20827spn_3d_corioliså≈°ßb
+s20827spn_3d_coriolis∏«°ßb
 CorioliscoriolisF
-Coriolis MMSmmscoriolisZhttp://mms.coriolis.frb	10.12.0.1j9028"ÔO
+Coriolis MMSmmscoriolisZhttp://mms.coriolis.frb	10.12.0.1j9028"ç 
+allow_merging_rtt_calls_bool(O
 %carrier_vvm_package_name_string_array2&
-$com.coriolis.visualvoicemailcoriolis
+$com.coriolis.visualvoicemailcoriolis 
+ignore_rtt_mode_setting_bool(
 maxImageHeightò
 maxImageWidth†
 maxMessageSizeÄ¿%#
@@ -12,7 +14,10 @@ $com.coriolis.visualvoicemailcoriolis
 !non_roaming_operator_string_array2
 20801
 20810
-recipientLimit"
+recipientLimit 
+rtt_downgrade_supported_bool(
+rtt_supported_bool(
+rtt_upgrade_supported_bool("
 show_4g_for_lte_data_icon_bool(%
 sim_country_iso_override_stringfr
 smsToMmsTextThreshold$
